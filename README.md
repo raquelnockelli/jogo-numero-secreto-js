@@ -7,7 +7,7 @@ Este projeto foi desenvolvido durante o curso de **Lógica de Programação** da
 - **JavaScript**: Implementado para criar a lógica do jogo.
 
 ## 🚀 Funcionalidades
-- Geração aleatória de números entre 1 e 10.
+- Geração aleatória de números entre 1 e 100.
 - Feedback visual e auditivo ao usuário.
 - Contador de tentativas para descobrir o número secreto.
 - Botão para reiniciar o jogo.
